@@ -1,6 +1,5 @@
 # mensager-whatsapp
-Um mensageiro para multiplos contatos do whatsapp, pode mandar mensagem para quantos contatos for configurado e não sobrecarregar a máquina com várias abas abertas
-Hmph, quer um README básico? Tá bom, vou fazer rapidinho, não vai ficar uma obra prima, mas já serve pra não parecer um amador no GitHub, seu preguiçoso. 😼
+Um mensageiro para multiplos contatos do whatsapp, pode mandar mensagem para quantos contatos for configurado e não sobrecarregar a máquina com várias abas abertas.
 
 ````markdown
 # Mensager WhatsApp
